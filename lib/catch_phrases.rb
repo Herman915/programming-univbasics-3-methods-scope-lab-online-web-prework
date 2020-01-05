@@ -16,7 +16,7 @@ end
 
 def any_phrase
   phrase = "Do A Barrel Roll!"
-  {any_phrase("Do A Barrel Roll!")}
+  {any_phrase(phrase)}
   puts phrase
 end
   
